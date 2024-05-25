@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85463742507",
+    "project_id": "ragaca-6d90f",
+    "storage_bucket": "ragaca-6d90f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85463742507:android:1298811581da1d53b4526e",
+        "android_client_info": {
+          "package_name": "com.giolab.ragaca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Lo6FTFFPP4XdH6_us72NEzZ9K8ueXmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
